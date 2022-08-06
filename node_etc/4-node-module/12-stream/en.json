@@ -1,0 +1,1152 @@
+{
+    "items": [
+        {
+		    "key": "00-product-name",
+            "value": "Home Sperm Test"
+        },
+        {
+            "key": "00-tab-menu",
+            "value": "Menu"
+        },
+        {
+            "key": "00-tab-results",
+            "value": "My last result"
+        },
+        {
+            "key": "00-tab-history",
+            "value": "My results"
+        },
+        {
+            "key": "01-s-app-vers",
+            "value": "App version:"
+        },
+        {
+            "key": "02-hl-test-cta",
+            "value": "Take a test"
+        },
+        {
+            "key": "02-hl-txt-1",
+            "value": "Don’t have a test?"
+        },
+        {
+            "key": "02-hl-bin-cta",
+            "value": "Buy now"
+        },
+        {
+            "key": "02-hu-test-cta",
+            "value": "Take a test"
+        },
+        {
+            "key": "02-hu-txt-1",
+            "value": "You will need \n an account to save your results."
+        },
+        {
+            "key": "02-hu-signup-cta",
+            "value": "Sign up"
+        },
+        {
+            "key": "02-hu-txt-2",
+            "value": "Already have an account?"
+        },
+        {
+            "key": "02-hu-signin-cta",
+            "value": "Sign in"
+        },
+        {
+            "key": "03-w-skip-tab",
+            "value": "Skip intro"
+        },
+        {
+            "key": "03-w-back-tab",
+            "value": "Back"
+        },
+        {
+            "key": "03-w-next-tab",
+            "value": "Next"
+        },
+        {
+            "key": "03-w1-txt-1",
+            "value": "Clearblue Home Sperm Test \n checks your sperm \n concentration and motility."
+        },
+        {
+            "key": "03-w2-txt-1",
+            "value": "You need a \n Clearblue Home Sperm Test \n to use this app."
+        },
+        {
+            "key": "03-w2-txt-2",
+            "value": "Don’t have a test?"
+        },
+        {
+            "key": "03-w2-cta",
+            "value": "Buy now"
+        },
+        {
+            "key": "03-w3-txt-1",
+            "value": "Please always read the instruction booklet carefully before use."
+        },
+        {
+            "key": "03-w3-txt-2",
+            "value": "Not read instructions yet?"
+        },
+        {
+            "key": "03-w3-cta",
+            "value": "Read now"
+        },
+        {
+            "key": "mod-sr-title",
+            "value": "Your previous test results \n have not been saved!"
+        },
+        {
+            "key": "mod-sr-txt-1",
+            "value": "Sign in or sign up to store and access your results."
+        },
+        {
+            "key": "mod-sr-cta",
+            "value": "OK"
+        },
+        {
+            "key": "04-lc-title",
+            "value": "Terms and conditions"
+        },
+        {
+            "key": "04-lc-txt-1",
+            "value": "To create an account with us, we will need you to"
+        },
+        {
+            "key": "04-lc-txt-2",
+            "value": "agree to our terms and conditions"
+        },
+        {
+            "key": "04-lc-c1-txt1",
+            "value": "I am aged 16 or over and have read and agree to the"
+        },
+        {
+            "key": "04-lc-c1-txt2",
+            "value": "Terms of Use*"
+        },
+        {
+            "key": "04-lc-c2-txt1",
+            "value": "I have read and acknowledge the"
+        },
+        {
+            "key": "04-lc-c2-txt2",
+            "value": "Privacy Policy*"
+        },
+        {
+            "key": "04-lc-c3-txt1",
+            "value": "I agree that Clearblue® (and its owner GmbH) processes information related to my health status, which may be considered personal data under applicable data protection law, that is necessary to provide me with the Clearblue® app functions.*"
+        },
+        {
+            "key": "04-lc-cta",
+            "value": "Continue"
+        },
+        {
+            "key": "04-lp-title",
+            "value": "Privacy Policy"
+        },
+        {
+            "key": "04-lp-stitle",
+            "value": "Privacy Policy"
+        },
+        {
+            "key": "04-lp-txt1",
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis amet a, tincidunt lorem. Lorem amet quis non duis habitasse sit in. Massa malesuada pharetra vitae suspendisse sit elementum euismod ut. Ipsum facilisis mi nunc nam scelerisquesit amet, consectetur adipiscing elit. \n\n Sagittis amet a, tincidunt lorem. Lorem amet quis non duis habitasse sit in. Massa malesuada pharetra vitae suspendisse sit elementum euismod ut. Ipsum facilisis mi nunc nam scelerisque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis amet a, tincidunt lorem. Lorem amet quis non duis habitasse sit in. Massa malesuada pharetra vitae suspendisse sit elementum euismod ut. Ipsum facilisis mi nunc nam scelerisque."
+        },
+        {
+            "key": "04-lt-title",
+            "value": "Terms of use"
+        },
+        {
+            "key": "04-lt-stitle",
+            "value": "Terms of use"
+        },
+        {
+            "key": "04-lt-txt1",
+            "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis amet a, tincidunt lorem. Lorem amet quis non duis habitasse sit in. Massa malesuada pharetra vitae suspendisse sit elementum euismod ut. Ipsum facilisis mi nunc nam scelerisquesit amet, consectetur adipiscing elit. \n\n Sagittis amet a, tincidunt lorem. Lorem amet quis non duis habitasse sit in. Massa malesuada pharetra vitae suspendisse sit elementum euismod ut. Ipsum facilisis mi nunc nam scelerisque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis amet a, tincidunt lorem. Lorem amet quis non duis habitasse sit in. Massa malesuada pharetra vitae suspendisse sit elementum euismod ut. Ipsum facilisis mi nunc nam scelerisque."
+        },
+        {
+            "key": "05-su-title",
+            "value": "Sign up"
+        },
+        {
+            "key": "05-su-txt-1",
+            "value": "Please type in your email and follow the steps below to set up your account."
+        },
+        {
+            "key": "05-su-txt-2",
+            "value": "You can complete your profile with below details and receive personalised emails, offers from us if you wish."
+        },
+        {
+            "key": "05-su-email",
+            "value": "1. Enter your email *"
+        },
+        {
+            "key": "05-su-code",
+            "value": "2. Enter code received by email *"
+        },
+        {
+            "key": "05-su-pass",
+            "value": "3. Choose password *"
+        },
+        {
+            "key": "05-su-pass-cnfrm",
+            "value": "4. Confirm password *"
+        },
+        {
+            "key": "05-su-pass-err",
+            "value": "*  Please confirm chosen password"
+        },
+        {
+            "key": "05-su-scode-cta",
+            "value": "Send code"
+        },
+        {
+            "key": "05-su-ccode-cta",
+            "value": "Check"
+        },
+        {
+            "key": "05-su-pass-err",
+            "value": "* Your password must be minimum 8 characters using upper and lower case letters and at least one number."
+        },
+        {
+            "key": "05-su-yob-t",
+            "value": "Year of Birth"
+        },
+        {
+            "key": "05-su-yob",
+            "value": "Enter required info"
+        },
+        {
+            "key": "05-su-yob-year",
+            "value": "Year"
+        },
+        {
+            "key": "05-su-height-t",
+            "value": "Height"
+        },
+        {
+            "key": "05-su-height",
+            "value": "Enter required info"
+        },
+        {
+            "key": "05-su-height-cm",
+            "value": "cm"
+        },
+        {
+            "key": "05-su-height-ft-in",
+            "value": "ft/in"
+        },
+        {
+            "key": "05-su-weight-t",
+            "value": "Weight"
+        },
+        {
+            "key": "05-su-weight",
+            "value": "Enter required info"
+        },
+        {
+            "key": "05-su-weight-kg",
+            "value": "kg"
+        },
+        {
+            "key": "05-su-weight-lbs",
+            "value": "lbs"
+        },
+        {
+            "key": "05-su-c1-text",
+            "value": "I would like to receive emails, offers and coupons from Clearblue®"
+        },
+        {
+            "key": "05-su-c2-text",
+            "value": "I would like to receive emails, offers and coupons from trusted partners"
+        },
+        {
+            "key": "05-su-submit-cta",
+            "value": "Sign up"
+        },
+        {
+            "key": "06-si-email",
+            "value": "Enter your email"
+        },
+        {
+            "key": "06-si-email-err",
+            "value": "The correct email format is example@email.com"
+        },
+        {
+            "key": "06-si-pass",
+            "value": "Enter your password"
+        },
+        {
+            "key": "06-si-pass-err",
+            "value": "Combination of 8 or more numbers and letters"
+        },
+        {
+            "key": "06-si-cta",
+            "value": "Sign in"
+        },
+        {
+            "key": "06-si-check",
+            "value": "Remain signed in"
+        },
+        {
+            "key": "06-si-frgt-pass",
+            "value": "Forgot password"
+        },
+        {
+            "key": "06-si-sign-up-cta",
+            "value": "Sign up"
+        },
+        {
+            "key": "mod-3days-txt-1",
+            "value": "Your results may be low if you have ejaculated in the last 3 days, or if you have had a vasectomy."
+        },
+        {
+            "key": "mod-3days-check",
+            "value": "Do not show this message again."
+        },
+        {
+            "key": "mod-3days-cta",
+            "value": "OK"
+        },
+        {
+            "key": "07-ts1-txt-1",
+            "value": "Please prepare your semen sample \n and clip your device to your phone, \n following the instruction booklet \n carefully, before you press \n “Start analysis”."
+        },
+        {
+            "key": "07-ts1-start-cta",
+            "value": "Start analysis"
+        },
+        {
+            "key": "07-ts1-txt-2",
+            "value": "Don’t have a test?"
+        },
+        {
+            "key": "07-ts1-bin-cta",
+            "value": "Buy now"
+        },
+        {
+            "key": "mod-sam-title",
+            "value": "Sample not recognized"
+        },
+        {
+            "key": "mod-sam-txt-1",
+            "value": "Make sure you've prepared your sperm sample according to instructions. Please also check that the device and the smartphone are assembled correctly."
+        },
+        {
+            "key": "mod-sam-cancel-cta",
+            "value": "Cancel test"
+        },
+        {
+            "key": "mod-sam-retry-cta",
+            "value": "Retry"
+        },
+        {
+            "key": "07-ts-progbar-1",
+            "value": "Start"
+        },
+        {
+            "key": "07-ts-progbar-2",
+            "value": "Step 1"
+        },
+        {
+            "key": "07-ts-progbar-3",
+            "value": "Step 2"
+        },
+        {
+            "key": "07-ts-progbar-4",
+            "value": "Step 3"
+        },
+        {
+            "key": "07-ts2-txt-1",
+            "value": "Preparing to analyze sperm sample. Searching image for sperm to set analysis area."
+        },
+        {
+            "key": "07-ts-stat",
+            "value": "Analyzing"
+        },
+        {
+            "key": "07-ts3-txt-1",
+            "value": "Analyzing sperm concentration."
+        },
+        {
+            "key": "07-ts4-txt-1",
+            "value": "Analyzing sperm motility ."
+        },
+        {
+            "key": "07-ts5-txt-1",
+            "value": "Comprehensive results of sperm health is now is process."
+        },
+        {
+            "key": "mod-tcompu-title",
+            "value": "Analysis complete"
+        },
+        {
+            "key": "mod-tcompu-txt-1",
+            "value": "Please sign up to store your results in your account and access them anytime."
+        },
+        {
+            "key": "mod-tcompu-signup-cta",
+            "value": "Sign up"
+        },
+        {
+            "key": "mod-tcompu-txt-2",
+            "value": "Already have an account?"
+        },
+        {
+            "key": "mod-tcompu-signin-cta",
+            "value": "Sign in"
+        },
+        {
+            "key": "mod-tcompl-title",
+            "value": "Analysis complete"
+        },
+        {
+            "key": "mod-tcompl-cta",
+            "value": "See my results"
+        },
+        {
+            "key": "08-r-title",
+            "value": "My Results"
+        },
+        {
+            "key": "08-r-intro-1",
+            "value": "You have a"
+        },
+        {
+            "key": "08-r-intro-cn-norm",
+            "value": "normal concentration score"
+        },
+        {
+            "key": "08-r-intro-cn-low",
+            "value": "low concentration score"
+        },
+        {
+            "key": "08-r-intro-2",
+            "value": "and a"
+        },
+        {
+            "key": "08-r-intro-mt-norm",
+            "value": "normal motility score"
+        },
+        {
+            "key": "08-r-intro-mt-low",
+            "value": "low motility score"
+        },
+        {
+            "key": "08-r-cn-stitle",
+            "value": "Concentration Score"
+        },
+        {
+            "key": "08-r-cn-u",
+            "value": "Million /ml"
+        },
+        {
+            "key": "08-r-cn-txt-1",
+            "value": "Concentration is the number of sperm per mililitre"
+        },
+        {
+            "key": "08-r-low",
+            "value": "Low"
+        },
+        {
+            "key": "08-r-norm",
+            "value": "Normal"
+        },
+        {
+            "key": "08-r-mt-stitle",
+            "value": "Motility Score"
+        },
+        {
+            "key": "08-r-mt-txt-1",
+            "value": "Motility is the ability of sperm to move or swim efficiently"
+        },
+        {
+            "key": "08-r-ns-stitle",
+            "value": "What do my results mean?"
+        },
+        {
+            "key": "08-r-ns-1-norm",
+            "value": "Your scores are within the normal range. "
+        },
+        {
+            "key": "08-r-ns-2-norm",
+            "value": "This is above the World Health Organisation (WHO) lower reference limit (5th percentile). If you have questions or concerns about your result you should see your doctor."
+        },
+        {
+            "key": "08-r-ns-3-norm",
+            "value": ""
+        },
+        {
+            "key": "08-r-ns-1-low",
+            "value": "One of your scores is low."
+        },
+        {
+            "key": "08-r-ns-2-low",
+            "value": "This means it is below the World Health Organisation lower reference limit (5th percentile). "
+        },
+        {
+            "key": "08-r-ns-3-low",
+            "value": "You should see your doctor."
+        },
+        {
+            "key": "08-r-more-cta",
+            "value": "Read more"
+        },
+        {
+            "key": "08-r-who-stitle",
+            "value": "What is the WHO reference limit?"
+        },
+        {
+            "key": "08-r-who-txt-1",
+            "value": "According to WHO Standards for the Evaluation of Human Semen published in 2010,\n\n- The lower reference limit for sperm concentration is 15 million per mL.\n\n- The lower reference limit for total sperm motility is 40%."
+        },
+        {
+            "key": "09-h-title",
+            "value": "My results history"
+        },
+        {
+            "key": "09-h-stitle-1",
+            "value": "My history"
+        },
+        {
+            "key": "09-h-cn",
+            "value": "Concentration"
+        },
+        {
+            "key": "09-h-mt",
+            "value": "Motility"
+        },
+        {
+            "key": "09-h-nor",
+            "value": "Normal"
+        },
+        {
+            "key": "09-h-low",
+            "value": "Low"
+        },
+        {
+            "key": "09-h-stitle-2",
+            "value": "Previous test results "
+        },
+        {
+            "key": "09-h-date",
+            "value": "Date"
+        },
+        {
+            "key": "09-h-approx",
+            "value": "(Approximatively)"
+        },
+        {
+            "key": "09-h-cn-u",
+            "value": "Million / ml"
+        },
+        {
+            "key": "00-m1",
+            "value": "Jan."
+        },
+        {
+            "key": "00-m2",
+            "value": "Feb."
+        },
+        {
+            "key": "00-m3",
+            "value": "Mar."
+        },
+        {
+            "key": "00-m4",
+            "value": "Apr."
+        },
+        {
+            "key": "00-m5",
+            "value": "May."
+        },
+        {
+            "key": "00-m6",
+            "value": "Jun."
+        },
+        {
+            "key": "00-m7",
+            "value": "Jul."
+        },
+        {
+            "key": "00-m8",
+            "value": "Aug."
+        },
+        {
+            "key": "00-m9",
+            "value": "Sep."
+        },
+        {
+            "key": "00-m10",
+            "value": "Oct."
+        },
+        {
+            "key": "00-m11",
+            "value": "Nov."
+        },
+        {
+            "key": "00-m12",
+            "value": "Dec."
+        },
+        {
+            "key": "10-fp-title",
+            "value": "Forgot password"
+        },
+        {
+            "key": "10-fp-txt-1",
+            "value": "Enter the email address linked to this account. \n If it is valid, we will reset and send your new password to this email."
+        },
+        {
+            "key": "10-fp-email-t",
+            "value": "Enter user email address"
+        },
+	{
+            "key": "10-fp-email-err",
+            "value": "The correct email format is example@email.com"
+        },
+        {
+            "key": "10-fp-email",
+            "value": "Enter your email"
+        },
+        {
+            "key": "10-fp-cta",
+            "value": "Change password"
+        },
+        {
+            "key": "mod-fp-txt-1",
+            "value": "Your new password has been sent on your email."
+        },
+        {
+            "key": "mod-fp-cta",
+            "value": "OK"
+        },
+        {
+            "key": "11-cp-title",
+            "value": "Change my password"
+        },
+        {
+            "key": "11-cp-cp-t",
+            "value": "Enter current password"
+        },
+        {
+            "key": "11-cp-cp",
+            "value": "Enter current password"
+        },
+	{
+            "key": "11-cp-cp-err",
+            "value": "Password set before or received via email"
+        },
+        {
+            "key": "11-cp-np-t",
+            "value": "Enter new password"
+        },
+        {
+            "key": "11-cp-np",
+            "value": "Enter new password"
+        },
+        {
+            "key": "11-cp-np-err",
+            "value": "Your password must be minimum 8 characters"
+        },
+        {
+            "key": "11-cp-p-t",
+            "value": "Confirm password"
+        },
+        {
+            "key": "11-cp-p",
+            "value": "Confirm password"
+        },
+        {
+            "key": "11-cp-p-err",
+            "value": "New and confirmed password must match."
+        },
+        {
+            "key": "11-cp-cta",
+            "value": "Change password"
+        },
+        {
+            "key": "mod-nreg-txt-1",
+            "value": "This email address is not registered."
+        },
+        {
+            "key": "mod-nreg-cta",
+            "value": "OK"
+        },
+        {
+            "key": "12-m-title",
+            "value": "Menu"
+        },
+        {
+            "key": "12-m-id",
+            "value": "User ID"
+        },
+        {
+            "key": "12-m-signed",
+            "value": "Remain signed in"
+        },
+        {
+            "key": "12-m-signed-on",
+            "value": "ON"
+        },
+        {
+            "key": "12-m-signed-off",
+            "value": "OFF"
+        },
+        {
+            "key": "12-m-edit",
+            "value": "Edit my profile"
+        },
+        {
+            "key": "12-m-cpass",
+            "value": "Change my password"
+        },
+        {
+            "key": "12-m-delete",
+            "value": "Delete my account"
+        },
+        {
+            "key": "12-m-faq",
+            "value": "FAQs"
+        },
+        {
+            "key": "12-m-regdate",
+            "value": "Registration date"
+        },
+        {
+            "key": "12-m-appver",
+            "value": "App ver."
+        },
+        {
+            "key": "12-m-prod",
+            "value": "Production"
+        },
+        {
+            "key": "12-m-logout",
+            "value": "Logout"
+        },
+        {
+            "key": "13-ep-title",
+            "value": "Edit my profile"
+        },
+        {
+            "key": "05-ep-yob-t",
+            "value": "Year of Birth"
+        },
+        {
+            "key": "05-ep-yob",
+            "value": "Enter required info"
+        },
+        {
+            "key": "05-ep-yob-year",
+            "value": "Year"
+        },
+        {
+            "key": "05-ep-height-t",
+            "value": "Height"
+        },
+        {
+            "key": "05-ep-height",
+            "value": "Enter required info"
+        },
+        {
+            "key": "05-ep-height-cm",
+            "value": "cm"
+        },
+        {
+            "key": "05-ep-height-ft-in",
+            "value": "ft/in"
+        },
+        {
+            "key": "05-ep-weight-t",
+            "value": "Weight"
+        },
+        {
+            "key": "05-ep-weight",
+            "value": "Enter required info"
+        },
+        {
+            "key": "05-ep-weight-kg",
+            "value": "kg"
+        },
+        {
+            "key": "05-ep-weight-lbs",
+            "value": "lbs"
+        },
+        {
+            "key": "05-ep-c1-text",
+            "value": "I would like to receive emails, offers and coupons from Clearblue®"
+        },
+        {
+            "key": "05-ep-c2-text",
+            "value": "I would like to receive emails, offers and coupons from trusted partners"
+        },
+        {
+            "key": "13-ep-cta",
+            "value": "Change profile"
+        },
+        {
+            "key": "14-da-title",
+            "value": "Delete my account"
+        },
+        {
+            "key": "14-da-txt-1",
+            "value": "For security reasons, \n please confirm your password."
+        },
+        {
+            "key": "14-da-txt-2",
+            "value": "By confirming, you will withdraw consent for Clearblue® Home Sperm Test to process your personal data and your account will be deleted. "
+        },
+        {
+            "key": "14-da-pass-t",
+            "value": "Your password"
+        },
+        {
+            "key": "14-da-pass",
+            "value": "Enter your current password"
+        },
+        {
+            "key": "14-da-agree",
+            "value": "Agree to delete all data"
+        },
+        {
+            "key": "14-da-cta",
+            "value": "Delete my account"
+        },
+	{
+            "key": "mod-pinc-txt-1",
+            "value": "The password is incorrect.\n If you’ve forgotten your password you can reset it from the app menu."
+        },
+	{
+            "key": "mod-pinc-cta",
+            "value": "Ok"
+        },
+	{
+            "key": "mod-adel-txt-1",
+            "value": "Your account has been deleted."
+        },
+	{
+            "key": "mod-adel-cta1",
+            "value": "Cancel"
+        },
+	{
+            "key": "mod-adel-cta2",
+            "value": "Delete"
+        },
+        {
+            "key": "15-faq-title",
+            "value": "FAQs"
+        },
+        {
+            "key": "15-faq-q1",
+            "value": "What is a Clearblue Home Sperm Test?"
+        },
+        {
+            "key": "15-faq-a1",
+            "value": "Clearblue Home Sperm Test is a digital sperm test that measures sperm concentration and motility.  You can test at any time in your own home.  "
+        },
+        {
+            "key": "15-faq-q2",
+            "value": "Is it possible to test multiple times with one ejaculation?"
+        },
+        {
+            "key": "15-faq-a2",
+            "value": "Yes, but it is recommended that you test again within 30 minutes of obtaining your sample.  This is due to the motility of sperm being sensitive to temperature and may deteriorate at room temperature. "
+        },
+        {
+            "key": "15-faq-q3",
+            "value": "What should I do if either count or motility result is low?"
+        },
+        {
+            "key": "15-faq-a3",
+            "value": "If you get a low result for concentration or motility we advise you do another test using a new semen sample.  It is advised that you abstain from ejaculation for 3 days before testing again.  If your results are still low, see your doctor.   "
+        },
+        {
+            "key": "15-faq-q4",
+            "value": "What should I do if the video is dark?"
+        },
+        {
+            "key": "15-faq-a4",
+            "value": "The device is fitted with a backlight so the video should always be light enough to be analyzed.  If it does appear too dark it is possible that the slide has not been inserted correctly.  Remove it and re-insert correctly.  Alternatively the device may not be correctly aligned with the camera lens or the device is not working correctly. "
+        },
+        {
+            "key": "15-faq-q5",
+            "value": "What should I do if the video is blurry?"
+        },
+        {
+            "key": "15-faq-a5",
+            "value": "Check the device lens and chamber.  Remove any dirt carefully using a clean cloth or cotton bud.  \n \n Check that the light is at the center of the app's screen before running the test."
+        },
+        {
+            "key": "15-faq-q6",
+            "value": "Can I purchase the chamber separately?"
+        },
+        {
+            "key": "15-faq-a6",
+            "value": "Chambers are not available for purchase separately.  This kit contains 2 tests and should be disposed of after use.  If you need to test again please buy purchase a new test."
+        },
+        {
+            "key": "15-faq-q7",
+            "value": "Can I run a test immediately after ejaculation?"
+        },
+        {
+            "key": "15-faq-a7",
+            "value": "No.  You must allow your semen sample to liquefy for 15 minutes at room temperature before placing in the chamber. Follow the instructions carefully before testing."
+        },
+        {
+            "key": "15-faq-q8",
+            "value": "What is liquefaction?"
+        },
+        {
+            "key": "15-faq-a8",
+            "value": "Liquefaction is the process where semen changes from being gel like to being watery.  Liquefying your semen sample is a simple process – just leave the sample at room temperature for 15 minutes before placing in the chamber.  "
+        },
+        {
+            "key": "15-faq-q9",
+            "value": "What should I do after waiting 15 minutes for liquefaction?"
+        },
+        {
+            "key": "15-faq-a9",
+            "value": "Stir the sample in one direction at least 5 times then place a drop of the semen sample into the chamber using the stick.  Insert the chamber into the device, taking care to follow the instructions."
+        },
+        {
+            "key": "15-faq-q10",
+            "value": "When can I see my results?"
+        },
+        {
+            "key": "15-faq-a10",
+            "value": "Results are available within 30 seconds after you click ‘Test’ in the app."
+        },
+        {
+            "key": "mod-cs-txt-1",
+            "value": "A verification code has been sent to your email. Please enter the code to verify your email."
+        },
+        {
+            "key": "mod-cs-code-cta",
+            "value": "Enter code"
+        },
+        {
+            "key": "mod-cs-txt-2",
+            "value": "Didn’t get the code? "
+        },
+        {
+            "key": "mod-cs-resend-cta",
+            "value": "Resend"
+        },
+        {
+            "key": "mod-ve-txt-1",
+            "value": "Please enter a valid email \n i.e., example@email.com"
+        },
+        {
+            "key": "mod-ve-cta",
+            "value": "OK"
+        },
+        {
+            "key": "mod-ear-txt-1",
+            "value": "Email already registered, please sign in or create an account using a different email."
+        },
+        {
+            "key": "mod-ear-ok-cta",
+            "value": "OK"
+        },
+        {
+            "key": "mod-ear-signin-cta",
+            "value": "Sign in"
+        },
+        {
+            "key": "mod-nc-txt-1",
+            "value": "Your device is not connected to the network."
+        },
+        {
+            "key": "mod-nc-cta",
+            "value": "OK"
+        },
+        {
+            "key": "mod-cc-txt-1",
+            "value": "Thank you! \n The code is correct."
+        },
+        {
+            "key": "mod-cc-cta",
+            "value": "OK"
+        },
+        {
+            "key": "mod-cnm-txt-1",
+            "value": "The verification code does not match."
+        },
+        {
+            "key": "mod-cnm-again-cta",
+            "value": "Try again"
+        },
+        {
+            "key": "mod-cnm-txt-2",
+            "value": "Didn’t get the code? "
+        },
+        {
+            "key": "mod-cnm-resend-cta",
+            "value": "Resend"
+        },
+        {
+            "key": "mod-pnm-txt-1",
+            "value": "The password do not match."
+        },
+        {
+            "key": "mod-pnm-cta",
+            "value": "Try again"
+        },
+        {
+            "key": "mod-pf-txt-1",
+            "value": "Password must contain /n minimum 8 characters using upper and lower case letters and at least one number. No spaces."
+        },
+        {
+            "key": "mod-pf-cta",
+            "value": "Try again"
+        },
+        {
+            "key": "mod-ac-title",
+            "value": "Welcome"
+        },
+        {
+            "key": "mod-ac-txt-1",
+            "value": "Your account has been created.\n Please sign in."
+        },
+        {
+            "key": "mod-ac-cta",
+            "value": "OK"
+        },
+        {
+            "key": "mod-nic-title",
+            "value": "No internet connection"
+        },
+        {
+            "key": "mod-nic-txt-1",
+            "value": "Unable to connect to the internet. \n Please check your connection."
+        },
+        {
+            "key": "mod-nic-cta",
+            "value": "Close"
+        },
+        {
+            "key": "mod-sp-title",
+            "value": "Server problem"
+        },
+        {
+            "key": "mod-sp-txt-1",
+            "value": "We're sorry but there's a problem with our server right now. Please try again later."
+        },
+        {
+            "key": "mod-sp-cta",
+            "value": "Close"
+        },
+        {
+            "key": "mod-sm-title",
+            "value": "Server maintenance"
+        },
+        {
+            "key": "mod-sm-txt-1",
+            "value": "We're sorry but the server is currently under maintenance. It should be back online before"
+        },
+        {
+            "key": "mod-sm-cta",
+            "value": "Close"
+        },
+        {
+            "key": "00-bin-url",
+            "value": "https://www.clearblue.com/home-sperm-test/buy-now"
+        },
+        {
+            "key": "00-htu-url",
+            "value": "https://www.clearblue.com/home-sperm-test/how-to-use"
+        },
+        {
+            "key": "00-more-url-normal",
+            "value": "https://www.clearblue.com/home-sperm-test/normal-results"
+        },
+        {
+            "key": "00-more-url-low",
+            "value": "https://www.clearblue.com/home-sperm-test/low-results"
+	},
+	{
+            "key": "mod-pwc-txt-1",
+            "value": "Your password has been changed."
+        },
+	{
+            "key": "mod-pwc-cta",
+            "value": "OK"
+        },
+	{
+            "key": "mod-icp-txt-1",
+            "value": "The current password is incorrect. \n If you’ve reset your password, please \nuse the one you’ve received via email."
+        },
+	{
+            "key": "mod-icp-cta",
+            "value": "OK"
+        },
+	{
+            "key": "mod-cpa-txt-1",
+            "value": "Current and new password can’t be the same.\n Please enter a new password."
+        },
+	{
+            "key": "mod-cpa-cta",
+            "value": "OK"
+        },
+	{
+            "key": "mod-pnm-txt-1",
+            "value": "Confirmation password does not \n match the new password."
+        },
+	{
+            "key": "mod-pnm-cta",
+            "value": "OK"
+        },
+	{
+            "key": "mod-emsh-txt1",
+            "value": "Please enter a valid email\n i.e., example@email.com."
+        },
+	{
+            "key": "mod-emsh-cta",
+            "value": "OK"
+        },
+	{
+            "key": "mod-eme-txt1",
+            "value": "Please enter your email."
+        },
+	{
+            "key": "mod-eme-cta",
+            "value": "OK"
+        },
+	{
+            "key": "mod-pwsh-txt1",
+            "value": "Your password must be\nminimum 8 characters."
+        },
+	{
+            "key": "mod-pwsh-cta",
+            "value": "OK"
+        },
+	{
+            "key": "mod-logf-txt1",
+            "value": "The login failed."
+        },
+	{
+            "key": "mod-logf-cta",
+            "value": "OK"
+        },
+	{
+            "key": "mod-exit-txt1",
+            "value": "Are you sure you want to exit the app?"
+        },
+	{
+            "key": "mod-exit-cta1",
+            "value": "Cancel"
+        },
+	{
+            "key": "mod-exit-cta2",
+            "value": "Exit"
+        },
+	{
+            "key": "mod-empty-txt1",
+            "value": "Please test to see your results."
+        },
+	{
+            "key": "mod-empty-cta",
+            "value": "OK"
+        }
+   ]
+}

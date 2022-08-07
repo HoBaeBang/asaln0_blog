@@ -1,0 +1,9 @@
+db:
+  host: 'localhost'
+  username: 'root'
+  password: '0120'
+  synchronize: true
+  logging: true
+
+jwt:
+  secret: '123!@#PetLog#@!321'

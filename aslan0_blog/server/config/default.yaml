@@ -1,0 +1,29 @@
+server:
+  port: 8080
+
+db:
+  type: 'mariadb'
+  port: 3306
+  database: 'aslan0_blog'
+
+jwt:
+  expiresIn: 3600
+
+facebook:
+  clientID: '410956011086202'
+  clientSecret: '3b0916bc22c0d697879942d46ae5721a'
+  callbackURL: 'http://localhost:8080/api/v1/auth/facebook/callback'
+
+google:
+  clientID: '419274465603-mon6c93frj4k4atuhs0ca8rfq9riou1s.apps.googleusercontent.com'
+  clientSecret: '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'
+  callbackURL: 'http://localhost:8080/api/v1/auth/google/callback'
+
+naver:
+  clientID: 'K0f9owxA5Ii_VE0qy3G9'
+  clientSecret: 'Ruu7IiQP7T'
+  callbackURL: 'http://localhost:8080/api/v1/auth/naver/callback'
+
+kakao:
+  clientID: 'e0521107d547145dfca2033fe58e4233'
+  callbackURL: 'http://localhost:8080/api/v1/auth/kakao/callback'

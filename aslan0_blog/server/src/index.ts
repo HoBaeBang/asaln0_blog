@@ -1,15 +1,14 @@
-import express from "express"
+import express from "express";
 import { application, Router } from 'express'
 import { Application } from 'express'
 import {Controller} from './common/interfaces/controller.interface';
-import config from 'config';
+import config from 'config'
 import {errorMiddleware} from "./middleware/error.middleware";
-import Passport from "passport";
+import {Passport} from "passport";
 
 const ServerConfig = config.get('server');
 export default class App{
     private readonly app: express.Application;
-
     constructor(controllers: Controller[]){
         this.app = express();
         this.initializeMiddlewares();
@@ -27,7 +26,7 @@ export default class App{
         //         saveUninitialized: true,
         //     }),
         // );
-        Passport();     //인증에 관한내용 인증을 도와주는 미들웨어로 사용하면 Oauth와 세션 쿠키 관리가 편해집니다.
+        Passport;     //인증에 관한내용 인증을 도와주는 미들웨어로 사용하면 Oauth와 세션 쿠키 관리가 편해집니다.
     }
 
     //  에러 핸들러
@@ -46,6 +45,15 @@ export default class App{
         });
         this.app.use('/api',router);            //  /api라는 url이 들어오면 라우터로 동작하라 라는 말임
     }
+
+    public listen() {
+        const port = process.env.SERVER_PORT //|| ServerConfig.port
+        this.app.listen(port, () => {
+            console.log("DB CONNECTION SUCCESS")
+            console.log(`SERVER RUN TO ${port}`);
+        })
+    }
+
 
     public getServer() {
         return this.app;

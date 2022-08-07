@@ -54,7 +54,6 @@ export default class App{
         })
     }
 
-
     public getServer() {
         return this.app;
     }

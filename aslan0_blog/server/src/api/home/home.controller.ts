@@ -1,8 +1,8 @@
 import * as express from "express";
 import { Router } from 'express'
 import {Controller} from "../../common/interfaces/controller.interface";
+import {HomeService} from "./home.service";
 
-const router: Router = express.Router();
 
 
 export default class HomeController implements Controller {
@@ -16,7 +16,7 @@ export default class HomeController implements Controller {
     InitializeRoutes() {
         const router = Router();
         router
-            .get('/',)
+            .get('/',HomeService.getHome)
         this.router.use(this.path, router);
     }
 

@@ -1,6 +1,8 @@
 import express from "express";
 
 
-// export const HomeService = {
-//
-// };
+export const HomeService = {
+    async getHome(req,res){
+
+    }
+}
